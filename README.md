@@ -7,7 +7,7 @@
 conda env create -f env.yml
 ```
 
-
+## Visualization
 ## Sound-oriented Image Generation
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD1.jpg)
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD2.jpg)
