@@ -1,6 +1,6 @@
 # SoundAdapter
-###MultiModelMix
+### MultiModelMix
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX3.jpg)
-###SoundMix
+### SoundMix
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX1.jpg)
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX2.jpg)
