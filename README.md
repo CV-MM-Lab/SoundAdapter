@@ -1,4 +1,13 @@
-# SoundAdapter
+# Draw What You Hear: High-fidelity Image Generation and Manipulation via SoundAdapter
+
+
+## Requirements
+- We recommend you to use Anaconda to create a conda environment:
+```Shell
+conda env create -f env.yml
+```
+
+
 ## Sound-oriented Image Generation
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD1.jpg)
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD2.jpg)
