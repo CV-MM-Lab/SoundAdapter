@@ -7,6 +7,8 @@
 conda env create -f env.yml
 ```
 
+Download the pretrained [checkpoint](https://huggingface.co/YSYS1103/SoundAdapter/blob/main/SD_checkpoint.pth.tar) and save it in the checkpoints folder like: 
+
 ## Visualization
 ### Sound-oriented Image Generation
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD1.jpg)
