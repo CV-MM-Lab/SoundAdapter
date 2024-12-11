@@ -6,9 +6,24 @@
 ```Shell
 conda env create -f env.yml
 ```
-
-Download the pretrained [checkpoint](https://huggingface.co/YSYS1103/SoundAdapter/blob/main/SD_checkpoint.pth.tar) and save it in the checkpoints folder like: 
-
+## Inference
+Download the pretrained [checkpoint](https://huggingface.co/YSYS1103/SoundAdapter)
+- Sound-oriented Image Generation
+```Shell
+python ./optimization/SoundAdapter_SD.py
+```
+- Sound-guided Image Manipulation
+```Shell
+python ./optimization/SoundAdapter_GAN.py
+```
+- MultiModelMix
+```Shell
+python ./optimization/SoundMix.py
+``` 
+- SoundMix
+```Shell
+python ./optimization/SoundAddSoundMix.py
+``` 
 ## Visualization
 ### Sound-oriented Image Generation
 ![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD1.jpg)
