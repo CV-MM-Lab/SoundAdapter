@@ -24,18 +24,18 @@ python ./optimization/SoundMix.py
 ```Shell
 python ./optimization/SoundAddSoundMix.py
 ``` 
-## Visualization
-### Sound-oriented Image Generation
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD1.jpg)
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD2.jpg)
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD3.jpg)
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD4.jpg)
-### Sound-guided Image Manipulation
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/GAN1.jpg)
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/GAN2.jpg)
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/GAN3.jpg)
-### MultiModelMix
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX3.jpg)
-### SoundMix
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX1.jpg)
-![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX2.jpg)
+//## Visualization
+//### Sound-oriented Image Generation
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD1.jpg)
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD2.jpg)
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD3.jpg)
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/SD4.jpg)
+//### Sound-guided Image Manipulation
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/GAN1.jpg)
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/GAN2.jpg)
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/GAN3.jpg)
+//### MultiModelMix
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX3.jpg)
+//### SoundMix
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX1.jpg)
+//![image](https://github.com/ZSTUCvLab/SoundAdapter/blob/master/images/MIX2.jpg)
