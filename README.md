@@ -25,7 +25,7 @@ python ./optimization/SoundMix.py
 python ./optimization/SoundAddSoundMix.py
 ```
 ## References
-'''
+'''Shell
 @article{w2025soundadapter,
   title={Draw What You Hear: High-fidelity Image Generation and Manipulation via SoundAdapter},
   author={Mingjie Wang, Song Yuan, Xianfeng Han and Yizi Li},
